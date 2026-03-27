@@ -109,7 +109,6 @@ The dataset used for this analysis was obtained from Kaggle: A/B Testing Dataset
 
 ## Project Resources
 
-* Colab Notebook: [Insert Link]
-* GitHub Repository: [Insert Link]
+* Colab Notebook: https://colab.research.google.com/drive/1qMB5FTbwlwHawppkmzDgXlp2EL3vIrpB?usp=sharing
 
 ---
